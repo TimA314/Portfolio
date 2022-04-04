@@ -236,7 +236,7 @@ const experience = {
           company: "World Print",
           company_url: "https://worldprints.azurewebsites.net/",
           logo_path: "worldprintlogo.png",
-          duration: "Nov 2021 - Present",
+          duration: "Nov 2021 - Feb 2022",
           location: "Work From Home",
           description: `Full Stack Software Engineer. Responsible for development of venue components and assist in the development of events, and location components for a not-for-profit business software application`,
           color: "#010e75",
