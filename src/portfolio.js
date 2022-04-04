@@ -221,6 +221,17 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Back End Web Developer ",
+          company: "Meyer Distributing",
+          company_url: "https://www.meyerdistributing.com/",
+          logo_path: "meyer_logo.png",
+          duration: "Feb 2022 - Present",
+          location: "Arlington, TX",
+          description:
+            "Responisble for developing and maintaining back-end applications. Primarily using ASP.NET, C#, and Microsoft SQL Server.",
+          color: "#010e75",
+        },
+        {
           title: "Full Stack Engineer",
           company: "World Print",
           company_url: "https://worldprints.azurewebsites.net/",
