@@ -172,6 +172,14 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "React (Basic) Certificate",
+      subtitle: "HackerRank",
+      logo_path: "reactLogo.png",
+      certificate_link: "https://www.hackerrank.com/certificates/1fc76e8a3cdc",
+      alt_name: "React",
+      color_code: "#222222",
+    },
+    {
       title: "Google IT Support Professional Certificate",
       subtitle: "Coursera",
       logo_path: "googleCertsIT.png",
