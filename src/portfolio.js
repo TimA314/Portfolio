@@ -140,13 +140,13 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
-        //   style: {
-        //     color: "#1488C6",
-        //   },
-        // },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
       ],
     },
   ],
@@ -172,7 +172,7 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "React (Basic) Certificate",
+      title: "React Certificate",
       subtitle: "HackerRank",
       logo_path: "reactLogo.png",
       certificate_link: "https://www.hackerrank.com/certificates/1fc76e8a3cdc",
@@ -205,6 +205,15 @@ const certifications = {
         "https://www.linkedin.com/learning/certificates/3bad36b46e1c854160459065654f93b14419856c30d2a783521ac26161ce18ae?trk=share_certificate",
       alt_name: "SQL",
       color_code: "#aaddd8",
+    },
+    {
+      title: "C# Certificate",
+      subtitle: "HackerRank",
+      logo_path: "cSharpLogo.jpg",
+      certificate_link:
+        "https://www.hackerrank.com/certificates/4100f98985de",
+      alt_name: "C# Certificate",
+      color_code: "#2D2D2D",
     },
   ],
 };
@@ -397,7 +406,8 @@ const projects = {
   ],
 };
 
-export {
+export
+{
   settings,
   greeting,
   socialMediaLinks,
