@@ -210,8 +210,7 @@ const certifications = {
       title: "C# Certificate",
       subtitle: "HackerRank",
       logo_path: "cSharpLogo.jpg",
-      certificate_link:
-        "https://www.hackerrank.com/certificates/4100f98985de",
+      certificate_link: "https://www.hackerrank.com/certificates/4100f98985de",
       alt_name: "C# Certificate",
       color_code: "#2D2D2D",
     },
@@ -403,11 +402,23 @@ const projects = {
         },
       ],
     },
+    {
+      id: "6",
+      name: "JiYou",
+      url: "https://github.com/TimA314/JiYou",
+      description:
+        "A Nostr Client built using typescript, react, MaterialUI, and Nostr Tools.",
+      languages: [
+        {
+          name: "TypeScript",
+          iconifyClass: "logos-typescript",
+        },
+      ],
+    },
   ],
 };
 
-export
-{
+export {
   settings,
   greeting,
   socialMediaLinks,
